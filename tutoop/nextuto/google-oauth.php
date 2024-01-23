@@ -11,8 +11,8 @@ $db_host = 'localhost';
 $db_name = 'sociallogin';
 
 // Update the following variables
-$google_oauth_client_id = '934453175899-pjjjl3m42sn47ln9a0bntrac4e5qgccs.apps.googleusercontent.com';
-$google_oauth_client_secret = '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';
+$google_oauth_client_id = '';
+$google_oauth_client_secret = '';
 $google_oauth_redirect_uri = 'http://localhost/google-login/google-oauth.php';
 $google_oauth_version = 'v3';
 // If the captured code param exists and is valid
